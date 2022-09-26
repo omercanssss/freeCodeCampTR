@@ -6,48 +6,49 @@
 [![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 [![Discord](https://img.shields.io/discord/692816967895220344)](https://discord.gg/PRyKn3Vbay)
 
-## freeCodeCamp.org's open-source codebase and curriculum
+## freeCodeCamp.org's açık kaynak kod tabanı ve eğitim programı.
 
 [freeCodeCamp.org](https://www.freecodecamp.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://www.freecodecamp.org/donate) to help millions of busy adults transition into tech. Our community has already helped more than 40,000 people get their first developer job.
 
-Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
+Bizim tam web geliştirme ve makine öğrenme eğitim programımız tamamen bedava. Yeteneklerinizi geliştirmeniz için binlerce interaktif kodlama programlarımız var.
 
-## Table of Contents
+## İçindekiler
 
-- [Certifications](#certifications)
-- [The Learning Platform](#the-learning-platform)
-- [Reporting Bugs and Issues](#reporting-bugs-and-issues)
-- [Reporting Security Issues and Responsible Disclosure](#reporting-security-issues-and-responsible-disclosure)
-- [Contributing](#contributing)
-- [Platform, Build and Deployment Status](#platform-build-and-deployment-status)
-- [License](#license)
+- [Sertifikalar](#sertifikalar)
+- [Öğrenme Platformu](#ogrenme-platformu)
+- [Hataları ve sorunları bildirme](#hatalari-ve-sorunlari-bildirme)
+- [Güvenlik açıklarını bildirme ve Sorumlu Açıklama Yapma(Çeviriyi Düzeltebilirsiniz.)](#guvenlik-aciklarini-bildirme-ve-sorumlu-aciklama-yapma)
+- [Katkı Yapmak](#katki-yapmak)
+- [Platform, Üretme ve Paylaşma durumu](#platform-build-and-deployment-status)
+- [Lisans](#lisans)
 
-### Certifications
+### Sertifikalar
 
-freeCodeCamp.org offers several free developer certifications. Each of these certifications involves building 5 required web app projects, along with hundreds of optional coding challenges to help you prepare for those projects. We estimate that each certification will take a beginner programmer around 300 hours to earn.
+freeCodeCamp.org birkaç bedava geliştirici sertifikası sunar. Bu sertifakaların her biri bu projelere hazırlanmanıza yardımcı olacak yüzlerce isteğe bağlı kodlama meydan okuma ile birlikte 5 tane web uygulama projesi içerir. Yeni başlayan bir programcının bir sertifikayı kazanmısının yaklaşık 300 saat süreceğini tahmin ediyoruz.
 
-Each of these 50 projects in the freeCodeCamp.org curriculum has its own agile user stories and automated tests. These help you build up your project incrementally and ensure you've fulfilled all the user stories before you submit it.
+freeCodeCamp.org müfredatındaki bu 50 projenin her birinin kendi çevik kullanıcı hikayeleri ve otomatik testleri vardır. These help you build up your project incrementally and ensure you've fulfilled all the user stories before you submit it. Bunlar projenizi adım adım yapmanızı ve göndermeden önce tüm kullanıcı hikayelerini yerine getirdiğinizden emin olmanıza yardımcı olur.
 
-You can pull in these test suites through [freeCodeCamp's CDN](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js). This means you can build these projects on websites like CodePen and Replit - or even on your local computer's development environment.
+Bu test paketlerini [freeCodeCamp'ın CDN'sinden](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js) alabilirsiniz. Bu, bu projeleri CodePen ve Replit gibi web sitelerinde veya hatta yerel bilgisayarınızın geliştirme ortamında oluşturabileceğiniz anlamına gelir.
 
-Once you've earned a certification, you will always have it. You will always be able to link to it from your LinkedIn or resume. And when your prospective employers or freelance clients click that link, they'll see a verified certification specific to you.
 
-The one exception to this is if we discover violations of our [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/). When we catch people unambiguously plagiarizing (submitting other people's code or projects as their own without citation), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
+Bir sertifika kazandığınızda, o hep sizin olur. Her zaman LinkedIn veya resume'a yükleyebilirsiniz. Potansiyel işverenleriniz veya serbest müşterileriniz bu bağlantıya tıkladığında size özel doğrulanmış bir sertifika görecekler.
 
-Here are our ten core certifications:
+Bunun tek istisnası, [Akademik Dürüstlük Politikamızın](https://www.freecodecamp.org/news/academic-honesty-policy/) ihlallerini keşfetmemizdir. Açıkça intihal yapan (diğer insanların kodlarını veya projelerini alıntı yapmadan kendilerininmiş gibi gönderen) insanları yakaladığımızda, tüm titiz öğrenme kurumlarının yapması gerekeni yaparız - sertifikalarını iptal eder ve bu insanları engelleriz.
 
-#### 1. [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+İşte on temel sertifikamız:
 
-- [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
-- [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
-- [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-colors-by-building-a-set-of-colored-markers)
-- [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form)
-- [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-the-css-box-model-by-building-a-rothko-painting)
-- [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery)
-- [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label)
-- [Learn Accessibility by Building a Quiz](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz)
+#### 1. [Çözünürlüğe Duyarlı Web Tasarım Sertifikasyonu](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+- [HTML'yi bir kedi fotoğrafı uygulaması yaparak öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+- [Bir cafe menüsü düzenleyerek basit CSS Bilgisi öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
+- [CSS Renklerini renkli işaretçiler yaparak öğrenin.](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-colors-by-building-a-set-of-colored-markers)
+- [HTML formlarını bir kayıt formu yaparak öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form)
+- [Bir Rothko Tablosu Oluşturarak CSS Kutu Modelini Öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-the-css-box-model-by-building-a-rothko-painting)
+- [Bir fotoğraf galerisi yaparak CSS Flexbox'ı öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery)
+- [Bir Beslenme Etiketi Oluşturarak Tipografiyi Öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label)
+- [Bir test hazırlayarak erişebilirliği öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz)
 - [Learn More About CSS Pseudo Selectors By Building A Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
-- [Learn Intermediate CSS by Building a Picasso Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-picasso-painting)
+- [Bir Picasso Tablosu Oluşturarak Orta Düzey CSS Öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-picasso-painting)
 - [Learn Responsive Web Design by Building a Piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-responsive-web-design-by-building-a-piano)
 - [Learn CSS Variables by Building a City Skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline)
 - [Learn CSS Grid by Building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-grid-by-building-a-magazine)
