@@ -26,7 +26,7 @@ Bizim tam web geliştirme ve makine öğrenme eğitim programımız tamamen beda
 
 freeCodeCamp.org birkaç bedava geliştirici sertifikası sunar. Bu sertifakaların her biri bu projelere hazırlanmanıza yardımcı olacak yüzlerce isteğe bağlı kodlama meydan okuma ile birlikte 5 tane web uygulama projesi içerir. Yeni başlayan bir programcının bir sertifikayı kazanmısının yaklaşık 300 saat süreceğini tahmin ediyoruz.
 
-freeCodeCamp.org müfredatındaki bu 50 projenin her birinin kendi çevik kullanıcı hikayeleri ve otomatik testleri vardır. These help you build up your project incrementally and ensure you've fulfilled all the user stories before you submit it. Bunlar projenizi adım adım yapmanızı ve göndermeden önce tüm kullanıcı hikayelerini yerine getirdiğinizden emin olmanıza yardımcı olur.
+freeCodeCamp.org müfredatındaki bu 50 projenin her birinin kendi çevik kullanıcı hikayeleri ve otomatik testleri vardır. Bunlar projenizi adım adım yapmanızı ve göndermeden önce tüm kullanıcı hikayelerini yerine getirdiğinizden emin olmanıza yardımcı olur.
 
 Bu test paketlerini [freeCodeCamp'ın CDN'sinden](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js) alabilirsiniz. Bu, bu projeleri CodePen ve Replit gibi web sitelerinde veya hatta yerel bilgisayarınızın geliştirme ortamında oluşturabileceğiniz anlamına gelir.
 
