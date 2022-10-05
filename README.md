@@ -49,47 +49,47 @@ Bunun tek istisnası, [Akademik Dürüstlük Politikamızın](https://www.freeco
 - [Bir fotoğraf galerisi yaparak CSS Flexbox'ı öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-flexbox-by-building-a-photo-gallery)
 - [Bir Beslenme Etiketi Oluşturarak Tipografiyi Öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label)
 - [Bir test hazırlayarak erişebilirliği öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-accessibility-by-building-a-quiz)
-- [Learn More About CSS Pseudo Selectors By Building A Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
+- [Bir Bilanço Oluşturarak CSS Pseudo selectors Hakkında Daha Fazla Bilgi Edinin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
 - [Bir Picasso Tablosu Oluşturarak Orta Düzey CSS Öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-intermediate-css-by-building-a-picasso-painting)
-- [Learn Responsive Web Design by Building a Piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-responsive-web-design-by-building-a-piano)
-- [Learn CSS Variables by Building a City Skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline)
-- [Learn CSS Grid by Building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-grid-by-building-a-magazine)
-- [Learn CSS Transforms by Building a Penguin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-transforms-by-building-a-penguin)
-- [Learn CSS Animations by Building a Ferris Wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel)
+- [Bir Piyano Yaparak Cihaz Duyarlı Web Tasarımını Öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-responsive-web-design-by-building-a-piano)
+- [Bir Şehir Silüeti Oluşturarak CSS Değişkenlerini Öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-variables-by-building-a-city-skyline)
+- [Bir Dergi Oluşturarak CSS Izgaraları Öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-grid-by-building-a-magazine)
+- [Bir Penguen Oluşturarak CSS Dönüşümlerini Öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-transforms-by-building-a-penguin)
+- [Dönme Dolap Yaparak CSS Animasyonlarını Öğrenin](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-css-animation-by-building-a-ferris-wheel)
   <br />
   <br />
-  **Projects**: [Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form), [Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page), [Technical Documentation Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page), [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page), [Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
+  **Projeler**: [Anket formu](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form), [Tribute Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page), [Technical Documentation Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page), [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page), [Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)
 
-#### 2. [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+#### 2. [JavaScript Algoritmaları ve Veri Yapıları Sertifikasyonu](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
-- [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+- [Basit Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 - [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
-- [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
-- [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
-- [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
-- [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
-- [Object-Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
-- [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
-- [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+- [Düzenli ifadeler](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
+- [Hata Ayıklama](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
+- [Temel Veri Yapıları](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
+- [Basit Algoritma Kodlama](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
+- [Nesne yönelimli programlama](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
+- [Fonksiyonel Programlama](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+- [Orta Düzey Algoritma Kodlama](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
   <br />
   <br />
-  **Projects**: [Palindrome Checker](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker),[ Roman Numeral Converter](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter), [Caesar's Cipher](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher), [Telephone Number Validator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator), [Cash Register](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+  **Projeler**: [Palindrom Denetleyicisi](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker),[ Roman Numaraları Çevirici](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter), [Sezar'ın şifresi](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher), [Telefon Numarası Doğrulayıcı](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator), [Nakit kasası](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
 
-#### 3. [Front End Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+#### 3. [Front End Kitaplıkları Sertifikasyonu](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
 - [Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap)
 - [jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery)
 - [Sass](https://www.freecodecamp.org/learn/front-end-development-libraries/#sass)
 - [React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
 - [Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
-- [React and Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux)
+- [React ve Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux)
   <br />
   <br />
-  **Projects**: [Random Quote Machine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine), [Markdown Previewer](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer), [Drum Machine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine), [JavaScript Calculator](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator), [25 + 5 Clock](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
+  **Projeler**: [Rastgele Alıntı Programı](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine), [Markdown Previewer](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer), [Davul Makinesi](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine), [JavaScript Hesap Makinesi](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator), [25 + 5 Saat](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
 
-#### 4. [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/)
+#### 4. [Veri Görselleştirme Sertifikasyonu](https://www.freecodecamp.org/learn/data-visualization/)
 
-- [Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/#data-visualization-with-d3)
+- [D3 ile Veri Görselleştirme](https://www.freecodecamp.org/learn/data-visualization/#data-visualization-with-d3)
 - [JSON APIs and Ajax](https://www.freecodecamp.org/learn/data-visualization/#json-apis-and-ajax)
   <br />
   <br />
